@@ -26,6 +26,18 @@ Factors such as bedrooms, bathrooms, renovated, and sq_ft proved to be some of t
 ![bedroom](./images/bedroomsvsprice.png)
 ![sqftvsprice](./images/sqftvsprice.png)
 
+All the factors depict steady growth of price as the factor itself increases. 
+
+![Renovated](./images/Renovated.png)
+
+Renovations also show an impact on price. Tests show significant differences in mean when comparing houses with and without renovations.
+
+![Month](./images/MonthvsPrice.png)
+
+Another variable that was researched was the date of sale. As shown above, there are months throughout the year where more prices tend to be sold over others.
+
+The polynomial model generated provided the lowest RMSE in comparison to the other models generated throughout the analysis. 
+
 ## Further Research
 - Search for more information on local geographic points that may help with property value (parks,schools,subways,busstops)
 - Further utilize any other points of interest such as proximity to important office locations/city downtown.
@@ -34,7 +46,8 @@ Factors such as bedrooms, bathrooms, renovated, and sq_ft proved to be some of t
 - Crime in area vs price of home
 
 ## Navigation
-- Bakeoff_modeling_process.ipynb: Final model containing methods
+- model.ipynb: Final model containing methods
+- lm_final.pickle: Pickle file for final model
 - ./data: File containing all data used in project
 - ./images: File containing all images
 - README.md: Document summarizing methods, results, and further research pending.
