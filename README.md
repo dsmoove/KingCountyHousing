@@ -2,7 +2,7 @@
 
 Author: David Shin
 
-![kcimage](./images/kcimage.png)
+![kcimage](./images/kcimage.jpg)
 
 ## Overview
 
@@ -22,8 +22,8 @@ Polynomial data was used to ultimately generate the best fitting model. Initiall
 ## Conclusions
 
 Factors such as bedrooms, bathrooms, renovated, and sq_ft proved to be some of the most impactful variables.
-![bathroom](./images/bathroomvspriceimage.png)
-![bedroom](./images/bedroomvsprice.png)
+![bathroom](./images/bathroomsvsprice.png)
+![bedroom](./images/bedroomsvsprice.png)
 ![sqftvsprice](./images/sqftvsprice.png)
 
 ## Further Research
