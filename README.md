@@ -1,8 +1,8 @@
 # King County Housing Price Model
 
-Author: David Shin
+David Shin
 
-![kcimage](./images/kcimage.jpg)
+![kcimage](./images/kcimage2.jpg)
 
 ## Overview
 
@@ -27,14 +27,14 @@ Factors such as bedrooms, bathrooms, renovated, and sq_ft proved to be some of t
 ![sqftvsprice](./images/sqftvsprice.png)
 
 ## Further Research
-Search for more information on local geographic points that may help with property value (parks,schools,subways,busstops)
-Further utilize any other points of interest such as proximity to important office locations/city downtown.
-Dig deeper into amount of times house sold to see impact on house value.
-Potential additional attributes such as if house has pool
-Crime in area vs price of home
+- Search for more information on local geographic points that may help with property value (parks,schools,subways,busstops)
+- Further utilize any other points of interest such as proximity to important office locations/city downtown.
+- Dig deeper into amount of times house sold to see impact on house value.
+- Potential additional attributes such as if house has pool
+- Crime in area vs price of home
 
 ## Navigation
-Bakeoff_modeling_process.ipynb: Final model containing methods
-./data: File containing all data used in project
-./images: File containing all images
-README.md: Document summarizing methods, results, and further research pending.
+- Bakeoff_modeling_process.ipynb: Final model containing methods
+- ./data: File containing all data used in project
+- ./images: File containing all images
+- README.md: Document summarizing methods, results, and further research pending.
